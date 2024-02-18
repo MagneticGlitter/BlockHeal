@@ -80,7 +80,7 @@ export default function Home() {
             <img src="icon.png" alt="Icon" class="w-[100px] mb-4" /> {/* Adjust the size and margin as needed */}
         </div>
           <h1 className="text-3xl sm:text-5xl font-bold tracking-tight text-gray-900 sm:text-5xl mt-12 lg:mt-0">
-            Welcome to TheraVibe.VR
+            Welcome to BlockHeal.VR
           </h1>
           <p className="mt-8 text-lg sm:text-xl leading-7 text-gray-600">
             Embark on a transformative journey with our groundbreaking VR therapy experience. Tailored to your unique needs, our immersive sessions offer a safe and private space where you can freely express your thoughts and emotions. Customize your therapist's appearance and surroundings to create a comfortable environment that empowers you to confidently explore your vulnerabilities. With engaging activities designed to promote relaxation and personalized recommendations to foster positive thinking, our VR therapy is a powerful tool for self-discovery and growth. Say hello to a new era of therapy, where innovation meets compassion, and healing knows no bounds!

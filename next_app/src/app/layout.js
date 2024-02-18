@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
     <>
     <head>
         <link rel="icon" href="icon.png" type="image/png" />
-        <title>TheraVibe.VR</title>
+        <title>BlockHeal.VR</title>
 
     </head>
     <html lang="en">
